@@ -1,9 +1,9 @@
 body {
-    background-color: rgb(122, 122, 122);
+    background-color: rgb(46,49,54);
 }
 /* Add a black background color to the top navigation */
 .topnav {
-    background-color: #333;
+    background-color: rgb(66,69,73);
     overflow: hidden;
   }
   
