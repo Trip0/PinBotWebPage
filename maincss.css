@@ -74,18 +74,16 @@ body {
       padding: 10px;
       height: 500px;
       text-align: center;
+      background-color: rgb(202, 202, 202)
    }
    .left {
-      background-color: tomato;
       float: left;
    }
    .right {
-      background-color: teal;
       display: inline-block;
       float: right;
    }
    .center {
-      background-color: rgb(166, 71, 255);
       margin-left: 12%;
       display: inline-block;
       float: center;
